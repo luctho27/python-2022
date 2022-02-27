@@ -49,9 +49,9 @@ float(5.0*int(5))
 #25
 int(2*int(2))
 #26
-print("lucas"*10)
+print("lucas" * 10)
 #27
-print("lucas"*10)
+print("lucas\n" * 10)
 #28
 print("5+10=" + str(5+10))
 #29
