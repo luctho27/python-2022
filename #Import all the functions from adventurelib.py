@@ -131,6 +131,20 @@ print("You can't use that here")
 @when("type 2354")
 def escape_pod_win():
 if note in inventory:
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
 if current_room == escape:
 print("You enter the code and escape. You win")
 else:
